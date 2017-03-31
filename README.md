@@ -26,7 +26,7 @@ As this is a really simple project, you can use the command-line build tool and 
 
 ## Overview
 
-The project represents an alpha version of a spaceship. tadadadammm
+The project represents an alpha version of a spaceship. tadadadammmdadamm
 
 - The ship (`SpaceShip` interface) can fire one or more lasers or torpedos.
 - We have only one spaceship as of now (`GT4500`).
